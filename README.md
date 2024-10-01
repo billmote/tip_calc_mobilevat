@@ -15,6 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+---
+Slides
+https://docs.google.com/presentation/d/1_YggOZWe8opwGkeX2KEQPM4tAlJzG8ft_BO6FSU0Bdo/edit#slide=id.g273dfd1a7e9_0_246
+---
 ChatGPT Prompts (ref. https://chatgpt.com/share/66fc52a2-d5b0-8000-a326-989ce04d2dfb):
 Here’s a summary of all your prompts:
 
